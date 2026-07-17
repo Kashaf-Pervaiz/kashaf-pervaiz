@@ -1,68 +1,84 @@
-#  Kashaf Pervaiz
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KashafPervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Kashaf Pervaiz
 
-I am a **BS Artificial Intelligence** student specializing in building high-performance, robust systems using **C++**. I focus on applying core software engineering principles, advanced data structures, and secure algorithms to develop terminal-based and desktop-grade applications—ranging from secure voting systems to optimized business automation workflows.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Engineer;Automation+Expert;Python+Developer;Building+Agentic+AI+Systems+for+Businesses" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=KashafPervaiz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-##  What I Work With
+## About
+
+I am Kashaf Pervaiz, an AI Engineer, Automation Expert, and Python Developer currently pursuing a BS in Artificial Intelligence at PUCIT. I help businesses replace manual, day-to-day operations with smart AI systems that run on their own, so nothing depends on memory, sticky notes, or someone being available around the clock.
+
+My core focus is building AI-powered automation systems for businesses. A good example is my project **Fankaar Khana**, where I built a complete AI system to run a shop's daily operations from start to finish.
+
+Here is what it does:
+
+- **Takes orders automatically** — whether a customer messages, calls, or fills a form, the order is captured and confirmed instantly, with nothing lost or forgotten.
+- **Answers customers instantly** — day or night, customers get real answers about stock, pricing, and policies without waiting on someone to reply.
+- **Follows up on deliveries on its own** — pending deliveries are tracked and both the owner and the customer are updated automatically, so nothing is missed.
+- **Handles complaints properly** — every issue raised by a customer is logged and followed through to resolution instead of getting buried in a chat thread.
+- **Lets the owner manage stock through chat** — no spreadsheets, no manual updates, just a quick message to add, update, or remove products.
+- **Keeps an eye on competitors** — pricing in the market is checked automatically on a regular schedule, so the owner always knows where they stand.
+- **Keeps the books straight** — transactions are automatically reconciled, so the owner always has an accurate picture of the business.
+
+The outcome is a business that runs like it has a full support team behind it, without the owner having to manage every order, message, or spreadsheet by hand. Nothing gets missed, customers get faster answers, and decisions are backed by real, up-to-date information instead of guesswork.
+
+I build these kinds of systems for businesses that want to stop running on manual effort and start running on automation that actually works around the clock.
+
+---
+
+## Tech Stack
 
 <p align="left">
-  <!-- C++ Core & System Tech -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=flat" />
+  <img src="https://img.shields.io/badge/Business%20Automation-2E8B57?style=flat" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B_17%2F20-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCC%20%2F%20Clang-8B939C?style=flat" />
-  <img src="https://img.shields.io/badge/Multi--Threading-FF4500?style=flat" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=flat" />
-  <img src="https://img.shields.io/badge/SQLite_C%2B%2B-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Stats
+## Featured Project — Fankaar Khana
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KashafPervaiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashafPervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**AI-driven automation system for full business operations**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashafPervaiz&theme=tokyonight&hide_border=true" width="98%" />
-</p>
+| Capability | Result |
+|---|---|
+| Order handling | 100% of orders captured and confirmed automatically |
+| Customer response time | Instant responses, day or night |
+| Delivery follow-ups | Automated tracking, zero manual chasing |
+| Complaint resolution | Every issue logged and tracked to closure |
+| Inventory management | Managed entirely through chat, no spreadsheets |
+| Market awareness | Competitor pricing checked on a recurring schedule |
+| Financial accuracy | Transactions automatically reconciled |
 
----
-
-##  Featured Projects
-
-###  **Console-Based Smart Voting System** — *Secure C++ Engine*
-* **What it does**: A high-performance, tamper-proof command-line voting framework built strictly in C++. It leverages robust object-oriented design, secure file handling for voter/ballot databases, and custom hashing techniques to prevent duplicate or fraudulent votes.
-* **Tech**: C++, File Handling (`fstream`), Custom Cryptographic Hashing, Standard Template Library (STL).
-
-###  **Business Automation System** — *C++ Automation Engine*
-* **What it does**: Designed to eliminate repetitive back-office operations. It automates inventory tracking, generates digital invoices, parses incoming business logs/data sheets, and exports clean text-based summaries and financial performance reports.
-* **Tech**: C++, Advanced OOP, File Stream Parsing, Multi-threaded Task Handlers.
+**Tech used:** Python, n8n, Supabase, AI Agents, Scheduled & Event-Driven Automation
 
 ---
 
-## Currently Learning & Deep Diving Into
-**System-Level Automations**: Exploring how to script OS-level tasks and write automated system monitors using native C++ APIs.
-**Optimized Memory Management**: Mastering custom memory allocators and modern C++ smart pointers to ensure zero-leak, high-efficiency execution.
+## GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KashafPervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashafPervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KashafPervaiz&theme=tokyonight&hide_border=true" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KashafPervaiz&theme=tokyo-night&hide_border=true" width="98%" />
+
+</div>
 
 ---
-
-##  About Me
-
-*  **BS Artificial Intelligence Student** — utilizing C++ to lay a strong foundational understanding of low-level optimization, algorithms, and secure systems.
-*   Obsessed with computational efficiency, clean code architectures, and maximizing resource usage.
-* 🤝 **Open to Collaborations** on open-source C++ projects, performance optimization, and custom automated tools.
-
----
-
-##  Get in Touch
-
-*  **Email**: [kashafpervaiz15@gmail.com](mailto:kashafpervaiz15@gmail.com)
-*  **LinkedIn**: [linkedin.com/in/kashaf-pervaiz-67a23038a](https://www.linkedin.com/in/kashaf-pervaiz-67a23038a)

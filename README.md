@@ -72,8 +72,8 @@ I build these kinds of systems for businesses that want to stop running on manua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashaf-Pervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf-Pervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://readmestats.999857.xyz/api?username=Kashaf-Pervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://readmestats.999857.xyz/api/top-langs/?username=Kashaf-Pervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=Kashaf-Pervaiz&theme=tokyonight&hide_border=true" width="98%" />
 

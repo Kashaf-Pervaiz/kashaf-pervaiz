@@ -75,7 +75,7 @@ I build these kinds of systems for businesses that want to stop running on manua
 <img src="https://github-readme-stats.vercel.app/api?username=Kashaf-Pervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf-Pervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashaf-Pervaiz&theme=tokyonight&hide_border=true" width="98%" />
+<img src="https://streak-stats.demolab.com?user=Kashaf-Pervaiz&theme=tokyonight&hide_border=true" width="98%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashaf-Pervaiz&theme=tokyo-night&hide_border=true" width="98%" />
 
@@ -86,7 +86,7 @@ I build these kinds of systems for businesses that want to stop running on manua
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kashaf-Pervaiz&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Kashaf-Pervaiz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---

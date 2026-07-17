@@ -1,4 +1,4 @@
-# 🌌 Kashaf Pervaiz
+#  Kashaf Pervaiz
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KashafPervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@ I am a **BS Artificial Intelligence** student specializing in building high-perf
 
 ---
 
-## 🛠️ What I Work With
+##  What I Work With
 
 <p align="left">
   <!-- C++ Core & System Tech -->
@@ -23,7 +23,7 @@ I am a **BS Artificial Intelligence** student specializing in building high-perf
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KashafPervaiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -36,13 +36,13 @@ I am a **BS Artificial Intelligence** student specializing in building high-perf
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🗳️ **Console-Based Smart Voting System** — *Secure C++ Engine*
+###  **Console-Based Smart Voting System** — *Secure C++ Engine*
 * **What it does**: A high-performance, tamper-proof command-line voting framework built strictly in C++. It leverages robust object-oriented design, secure file handling for voter/ballot databases, and custom hashing techniques to prevent duplicate or fraudulent votes.
 * **Tech**: C++, File Handling (`fstream`), Custom Cryptographic Hashing, Standard Template Library (STL).
 
-### 🏢 **Business Automation System** — *C++ Automation Engine*
+###  **Business Automation System** — *C++ Automation Engine*
 * **What it does**: Designed to eliminate repetitive back-office operations. It automates inventory tracking, generates digital invoices, parses incoming business logs/data sheets, and exports clean text-based summaries and financial performance reports.
 * **Tech**: C++, Advanced OOP, File Stream Parsing, Multi-threaded Task Handlers.
 
@@ -54,7 +54,7 @@ I am a **BS Artificial Intelligence** student specializing in building high-perf
 
 ---
 
-## 🎓 About Me
+##  About Me
 
 *  **BS Artificial Intelligence Student** — utilizing C++ to lay a strong foundational understanding of low-level optimization, algorithms, and secure systems.
 *   Obsessed with computational efficiency, clean code architectures, and maximizing resource usage.
@@ -62,7 +62,7 @@ I am a **BS Artificial Intelligence** student specializing in building high-perf
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
-* 📧 **Email**: [kashafpervaiz15@gmail.com](mailto:kashafpervaiz15@gmail.com)
-* 💼 **LinkedIn**: [linkedin.com/in/kashaf-pervaiz-67a23038a](https://www.linkedin.com/in/kashaf-pervaiz-67a23038a)
+*  **Email**: [kashafpervaiz15@gmail.com](mailto:kashafpervaiz15@gmail.com)
+*  **LinkedIn**: [linkedin.com/in/kashaf-pervaiz-67a23038a](https://www.linkedin.com/in/kashaf-pervaiz-67a23038a)

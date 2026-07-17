@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Engineer;Automation+Expert;Python+Developer;Building+Agentic+AI+Systems+for+Businesses" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=KashafPervaiz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Kashaf-Pervaiz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -72,13 +72,37 @@ I build these kinds of systems for businesses that want to stop running on manua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KashafPervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashafPervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kashaf-Pervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf-Pervaiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KashafPervaiz&theme=tokyonight&hide_border=true" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashaf-Pervaiz&theme=tokyonight&hide_border=true" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KashafPervaiz&theme=tokyo-night&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashaf-Pervaiz&theme=tokyo-night&hide_border=true" width="98%" />
 
 </div>
 
 ---
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kashaf-Pervaiz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## Get in Touch
+
+<p align="left">
+  <a href="mailto:kashafpervaiz15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kashaf-pervaiz-67a23038a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+- **Email:** [kashafpervaiz15@gmail.com](mailto:kashafpervaiz15@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kashaf-pervaiz-67a23038a](https://www.linkedin.com/in/kashaf-pervaiz-67a23038a)
+
+---
+
+<div align="center">
+<sub>Open to collaborating on agentic AI projects and business automation systems.</sub>
+</div>
